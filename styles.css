@@ -1,19 +1,43 @@
-body {
-	background-color:#C7010E;
-	color:white;
-}
 nav a{
-	color:#FF9933;
-}
-{nav a:
+	border-radius:25px;
 	display:inline-block;
-	background-color:#FBE122;
-	width:100px;
-	
-
-
-
-
+	width:580px;
+	margin:10px;
+	padding:10px;
+	background-color:#FAAFBA;
+	color:black;
+	text-align: centre;
 }
-	
-
+body{
+	background-color:grey;
+	color:#FAAFBA;
+	font-family:Bahnschrift SemiCondensed;
+	font-size:200%;
+	text-align: centre;
+}
+nav a:hover{background-color:#FF69B4;
+}
+img{
+	border: 10px solid #FAAFBA;
+  padding: 15px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+img:hover{background-color:#FF69B4;
+}
+h2{	
+border-radius:25px;
+display:inline-block;
+width:580px;
+margin:10px;
+padding:10px;
+background-color:#FAAFBA;
+color:black;
+text-align: centre;
+}
+h2:hover{background-color:#FF69B4;
+}
+h1{
+text-align: center;
+}
